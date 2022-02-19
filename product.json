@@ -1,0 +1,175 @@
+{
+ "headphones":[
+    {
+        "name" : "Bluetooth Headphones",
+        "category" : "new lancher",
+        "price" : "399",
+        "imgSrc" : "flipkart images/s1.jpeg"
+    },
+    {
+        "name" : "Techo speaker",
+        "category" : "new lancher",
+        "price" : "102.00",
+        "imgSrc" : "flipkart images/s2.jpeg"
+    },
+   
+    {
+        "name" : "True wireless",
+        "category" : "new lancher",
+        "price" : "15.00",
+        "imgSrc" : "flipkart images/s3.jpeg"
+    },
+    {
+        "name" : "wired hearphones",
+        "category" : "new lancher",
+        "price" : "23.75",
+        "imgSrc" : "flipkart images/s4.jpeg"
+    },
+    {
+        "name" : "speaker",
+        "category" : "new lancher",
+        "price" : "50.00",
+        "imgSrc" : "flipkart images/s5.jpeg"
+    },
+    {
+        "name" : "Bluetooth Headphones",
+        "category" : "new lancher",
+        "price" : "200.50",
+        "imgSrc" : "flipkart images/s6.jpeg"
+    }
+    
+  
+   
+    
+],
+
+"furniture":[
+    {
+        "name" : " swing chair",
+        "category" : "up to 20% off",
+        "price" : "50.25",
+        "imgSrc" : "flipkart images/f1.jpeg"
+    },
+    {
+        "name" : "bean bag cover",
+        "category" : "up to 20% off",
+        "price" : "102.00",
+        "imgSrc" : "flipkart images/f2.jpeg"
+    },
+   
+    {
+        "name" : "furniture",
+        "category" : "up to 20% off",
+        "price" : "15.00",
+        "imgSrc" : "flipkart images/f3.jpeg"
+    },
+    {
+        "name" : "Bunk bed",
+        "category" : "up to 20% off",
+        "price" : "23.75",
+        "imgSrc" : "flipkart images/f4.jpeg"
+    },
+    
+    {
+        "name" : "Card table",
+        "category" : "Table",
+        "price" : "up to 20% off",
+        "imgSrc" : "flipkart images/f6.jpeg"
+    },
+    {
+        "name" : "Cushion",
+        "category" : "up to 20% off",
+        "price" : "5.50",
+        "imgSrc" : "flipkart images/f7.jpeg"
+    }
+  
+   
+],
+
+
+"mencloth":[
+    {
+        "name" : "T-shir",
+        "category" : "up to 20% off",
+        "price" : "50.25",
+        "imgSrc" : "flipkart images/c1.jpeg"
+    },
+    {
+        "name" : "T-shirt black",
+        "category" : "up to 20% off",
+        "price" : "102.00",
+        "imgSrc" : "flipkart images/c2.jpeg"
+    },
+   
+    {
+        "name" : "cap",
+        "category" : "up to 20% off",
+        "price" : "15.00",
+        "imgSrc" : "flipkart images/c3.jpeg"
+    },
+    {
+        "name" : " cool cap",
+        "category" : "up to 20% off",
+        "price" : "23.75",
+        "imgSrc" : "flipkart images/c4.jpeg"
+    },
+    {
+        "name" : "jeans",
+        "category" : "up to 20% off",
+        "price" : "50.00",
+        "imgSrc" : "flipkart images/c5.jpg"
+    },
+    {
+        "name" : "shirt",
+        "category" : "up to 20% off",
+        "price" : "200.50",
+        "imgSrc" : "flipkart images/c6.jpeg"
+    }
+   
+  
+   
+],
+
+"mobile":[
+    {
+        "name" : "Poco m2 pro",
+        "category" : "5000mAh Bttery",
+        "price" : "50.25",
+        "imgSrc" : "flipkart images/p1.jpeg"
+    },
+    {
+        "name" : "Techo spark",
+        "category" : "4500mAh Bttery",
+        "price" : "102.00",
+        "imgSrc" : "flipkart images/p2.jpeg"
+    },
+   
+    {
+        "name" : "vivio",
+        "category" : "5000mAh Bttery",
+        "price" : "15.00",
+        "imgSrc" : "flipkart images/p3.jpeg"
+    },
+    {
+        "name" : "samsung",
+        "category" : "5500mAh Bttery",
+        "price" : "23.75",
+        "imgSrc" : "flipkart images/p4.jpeg"
+    },
+    {
+        "name" : "realme",
+        "category" : "5000mAh Bttery",
+        "price" : "50.00",
+        "imgSrc" : "flipkart images/p5.jpeg"
+    },
+    {
+        "name" : "oppo pro",
+        "category" : "5200mAh Bttery",
+        "price" : "200.50",
+        "imgSrc" : "flipkart images/p6.jpeg"
+    }
+    
+]
+
+  
+}
